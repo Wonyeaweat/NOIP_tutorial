@@ -12,3 +12,20 @@ This is a tutorial for beginners. It mainly includes some basic knowedge to OI, 
 
 Wonyeaweat 
 2020/09/10
+
+
+
+
+
+---
+
+添加了初赛教程的第二部分。后续会持续修改更新。
+
+---
+
+Add the second part of the tutorial. It will be updated continuously.
+
+---
+
+Wonyeaweat
+2020/09/25
