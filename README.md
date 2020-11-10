@@ -20,3 +20,10 @@ The examples and explanation of the preliminary contest have been uploaded. The 
 
 Wonyeaweat
 2020/10/08
+
+--- 
+
+"Final Dash" course materials uploaded.
+
+Wonyeaweat
+2020/11/10
